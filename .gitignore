@@ -1,0 +1,25 @@
+# General Python
+__pycache__/
+*.pyc
+.venv/
+.DS_Store
+
+# Environment Variables
+.env
+
+# Database
+*.db
+chat_analytics.db
+
+# Logs
+logs/
+
+# Data
+data_drop/
+
+# Testing
+.coverage
+.pytest_cache/
+
+# Streamlit
+.streamlit/secrets.toml
